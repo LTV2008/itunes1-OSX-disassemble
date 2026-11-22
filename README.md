@@ -6,4 +6,4 @@ This code has not been documented or made readable in any way, it is mainly to a
 
 This was primarily produced by a machine and may contain some errors that can be manually corrected or AI-corrected. It is not fully functional.
 
-disassembled with Ghidra for Linux.
+Disassembled with Ghidra for Linux.
